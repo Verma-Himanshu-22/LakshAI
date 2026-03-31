@@ -273,17 +273,28 @@ The platform supports 15 major industries, each with 10+ sub-industries:
 ### Landing Page
 The landing page features a hero section, feature cards, stats, how-it-works steps, testimonials, FAQ accordion, and a call-to-action section.
 
+![Landing Page](/public/Landing%20Page.png)
+
 ### Dashboard
 Displays industry-specific insights including salary ranges, growth rate, demand level, top skills, market outlook, key trends, and recommended skills.
+
+![Dashboard](/public/Dashboard1.png)
+![Dashboard](/public/Dashboard2.png)
 
 ### Resume Builder
 A full-featured markdown editor with AI-powered content improvement for individual resume sections.
 
+![Resume Builder](/public/Resume%20Builder.png)
+
 ### Interview Prep
 Generate industry-specific quizzes, view performance stats, and track progress over time with charts.
 
+![Interview Prep](/public/Interview%20Prep.png)
+
 ### Cover Letter Generator
 Create tailored cover letters by providing job title, company name, and job description.
+
+![Cover Letter](/public/Cover%20Letter.png)
 
 ---
 
